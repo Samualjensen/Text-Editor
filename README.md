@@ -3,6 +3,7 @@
 ![License Badge](https://shields.io/badge/license-MIT-green)
 ![License Badge](https://img.shields.io/badge/-Express-000000?logo=express&style=flat&logoColor=white)
 ![License Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat&logoColor=white)
+![License Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&style=flat&logoColor=white)
 
 ## Description:
 Text Editor is a single page web application that meets the PWA criteria, it is able to store persistant data as well as run offline.
@@ -23,10 +24,6 @@ git clone https://github.com/Samualjensen/Text-Editor.git
 ```bash
 npm i
  ```
-Then run: 
-```bash
-npm run start:dev
- ``` 
 ![img](./images/cryptic-reef-18857.herokuapp.com_.png)
 ### Usage:
 Once you have completed the steps listed above run:
