@@ -1,4 +1,4 @@
-# Text-Editor
+# J.A.T.E: Just Another Text Editor
 
 ![License Badge](https://shields.io/badge/license-MIT-green)
 ![License Badge](https://img.shields.io/badge/-Express-000000?logo=express&style=flat&logoColor=white)
