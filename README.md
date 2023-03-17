@@ -10,7 +10,7 @@ Text Editor is a single page web application that meets the PWA criteria, it is 
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
-* [Deployed-Link](#deployed-link)
+* [Deployed Link](#deployedlink)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
